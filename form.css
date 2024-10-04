@@ -1,0 +1,38 @@
+#form{
+    border: black 2px solid;
+    height: 300px;
+}
+ h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: normal;
+}
+label{
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input{
+    outline: none;
+    height: 13.5px;
+    width: 100px;
+}
+button{
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    list-style: none;
+}
+ul{
+    margin: 0px;
+}
+button:hover{
+    background-color: white;
+    color: black;
+}

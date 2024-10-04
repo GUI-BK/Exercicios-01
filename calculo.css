@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+}
+label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+input{
+    border: none;
+    outline: none;
+
+}
+button{
+    height: 30px;
+    width: 90px;
+    background-color: white;
+    color: black;
+}
+div{
+ display: block;
+ width: 200px;
+ height: auto;
+ margin-left: 300px;
+ margin-top: -57.5px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: normal;
+    color: white;
+}
+button:hover{
+    background-color: lightgray;
+}
